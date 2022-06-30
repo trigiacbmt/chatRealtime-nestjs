@@ -1,7 +1,7 @@
 export interface UserEntities {
   id: number;
   email: string;
-  username: string;
+  name: string;
   password: string;
   createdAt: Date;
   updatedAt: Date;
